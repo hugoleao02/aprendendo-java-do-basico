@@ -1,4 +1,4 @@
-package com.hugo.segundaSemana;
+package com.hugo.primeiraSemana;
 
 public class MinhaClasse {
 
