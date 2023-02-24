@@ -1,4 +1,4 @@
-package com.hugo.primeiraSemana;
+package com.hugo.primeiraSemana.operadores;
 
 public class OperadoresDeAtribuição {
     public static void main(String[] args) {
